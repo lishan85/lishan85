@@ -21,10 +21,11 @@ TODO: 一两行基本信息（学校/年级/所在城市等，按需填写，可
 
 `Python` · `TypeScript` · `Node.js` · `OpenCV` · `MediaPipe` · `YOLO` · `SQLite (FTS5)` · `DeepSeek Harness` · `Codex Skills`
 
+<!--
 ## Open source
 
-<!-- 合并到他人项目的 PR 会列在这里，只写真实已合并的 -->
-- 即将更新：我向其他开源项目提交并被合并的 PR 会列在这里。
+合并到他人项目的 PR 会列在这里，只写真实已合并的。
+-->
 
 <!--
 ## Contact
